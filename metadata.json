@@ -1,0 +1,5 @@
+{
+  "name": "AI Fashion Stylist",
+  "description": "Upload a photo and use AI to try on different virtual outfits. Describe a style, and our AI stylist will generate a new look for you, demonstrating the power of creative image editing.",
+  "requestFramePermissions": []
+}
